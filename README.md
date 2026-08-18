@@ -28,8 +28,8 @@ Wiring:
 3. Upload song files on your pi
 4. Flash the pi with the source code and **important** add the songs to the code
 5. Add the nfc stickers on the disk and write on them the necessary info with e.g. a free mobile app
-6. Build everything together and make sure it works and be carefull!
-7. Enjoy
+6. Build everything together and make sure it works and be careful!
+7. Enjoy it
 
 ## BOM:
 | Name | Description | Unit Price ($) | Amount | Total Price (incl. tax) | Link |
