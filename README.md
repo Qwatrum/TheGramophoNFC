@@ -27,7 +27,7 @@ Wiring:
 2. 3D print the gramophone
 3. Flash the pi with the source code and **important** add the songs to the code with the correct path
 4. Add the nfc stickers on the disk and write on them the necessary info with e.g. a free mobile app
-5. Build everything together and make sure it works and be careful!
+5. Build everything together (glue the rfid holder under the top) and make sure it works and be careful!
 6. Enjoy it
 
 ## BOM:
