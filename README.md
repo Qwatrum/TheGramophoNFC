@@ -25,11 +25,10 @@ Wiring:
 ## Getting started:
 1. Get all necessary parts
 2. 3D print the gramophone
-3. Upload song files on your pi
-4. Flash the pi with the source code and **important** add the songs to the code
-5. Add the nfc stickers on the disk and write on them the necessary info with e.g. a free mobile app
-6. Build everything together and make sure it works and be careful!
-7. Enjoy it
+3. Flash the pi with the source code and **important** add the songs to the code with the correct path
+4. Add the nfc stickers on the disk and write on them the necessary info with e.g. a free mobile app
+5. Build everything together and make sure it works and be careful!
+6. Enjoy it
 
 ## BOM:
 | Name | Description | Unit Price ($) | Amount | Total Price (incl. tax) | Link |
@@ -42,10 +41,9 @@ Wiring:
 | TB6612FNG | motor driver | 5.92 | 1 | 5.92 | https://www.amazon.de/DollaTek-TB6612FNG-Motorantriebsmodul-Arduino-Microcontroller/dp/B07DJ5734C |
 | 5V DC Motor R300C 8800RPM | to spin the disk | 2.54 | 1 | 2.54 | https://eckstein-shop.de/R1505VDCMotor6000RPMLeerlauf2F4000RPMLast2F3-5VDC |
 | 4.5V battery | powering the motor | 2.24 | 1 | 2.24 | https://www.amazon.de/Velamp-3R12-1BP-Pila-Blech/dp/B00966D8EY |
-| Micro sd card | storing the code and the files | 1.84 | 1 | 1.84 | https://de.aliexpress.com/item/1005012743102196.html |
 | Wires | wiring | 8.09 | 1 | 8.09 | https://www.amazon.de/ELEGOO-Jumper-Steckbr%C3%BCcken-Drahtbr%C3%BCcken-Arduino/dp/B01EV70C78 |
 
-Total: 64,16 $ (without shipping)
+Total: 62,32 $ (without shipping)
 Please note that the prices may change and there can be better buy options depending on your location
 
 ## Why I made this:
